@@ -2,6 +2,8 @@
 
 CampusFix is a responsive full-stack web application for reporting and tracking campus maintenance issues.
 
+🌐 **Live Demo:** [Click here to view CampusFix](https://hariraavi-code.github.io/CampusFix/)
+
 ## Features
 
 - Submit complaints with a category, location, description and priority
